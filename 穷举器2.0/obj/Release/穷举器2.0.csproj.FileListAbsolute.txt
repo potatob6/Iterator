@@ -1,0 +1,13 @@
+F:\VS Project\穷举器2.0\穷举器2.0\bin\Release\穷举器2.0.exe.config
+F:\VS Project\穷举器2.0\穷举器2.0\bin\Release\穷举器2.0.exe
+F:\VS Project\穷举器2.0\穷举器2.0\bin\Release\穷举器2.0.pdb
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\MainWindow.g.cs
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\App.g.cs
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2.0_MarkupCompile.cache
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2.0_MarkupCompile.lref
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\MainWindow.baml
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2.0.g.resources
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2._0.Properties.Resources.resources
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2.0.csproj.GenerateResource.Cache
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2.0.exe
+F:\VS Project\穷举器2.0\穷举器2.0\obj\Release\穷举器2.0.pdb
